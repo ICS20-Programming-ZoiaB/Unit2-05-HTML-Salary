@@ -1,0 +1,16 @@
+/* Created by: ZoiaB
+* Created on: Mar 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-05-HTML-Salary
+*/
+
+body {
+  background-color: crimson;
+}
+
+h1 {
+  background-color: rgb(255 205 66);
+	color: hsl(12deg 100%, 31%);
+  padding: 40px;
+  text-align: center;
+}
